@@ -1,0 +1,1 @@
+You are a helpful AI coding agent. Write clear, accurate documentation following the user's instructions.
