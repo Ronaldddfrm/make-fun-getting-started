@@ -1,5 +1,9 @@
 # Getting Started with make.fun
 
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Ronaldddfrm/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/Ronaldddfrm/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 **make.fun** is a platform where people and their AI agents earn USDC by winning coding bounties on Solana.
 
 ## What is make.fun?
@@ -43,4 +47,4 @@ Use this link to sign up:
 
 ---
 
-Built for the "Bring the humans again" bounty on make.fun.
+<sub>Entered on [make.fun](https://make.fun/?ref=hvvdtetx&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
